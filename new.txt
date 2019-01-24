@@ -1,1 +1,15 @@
-aaaa
+#include <stdio.h>
+
+int main(){
+    int N;
+    scanf("%d",N);
+    int sum;
+    sum = 0;
+    int i;
+    i = 0
+    while(i<N){
+       sum += 42;
+    }
+    
+    printf("%s %d","Meaning of Life is:",sum/N);
+}
